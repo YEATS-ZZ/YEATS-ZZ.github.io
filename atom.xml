@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YEATS-ZZ.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-07T10:43:41.280Z</updated>
+    <updated>2020-04-07T10:46:44.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YEATS-ZZ.github.io"/>
     <link rel="self" href="https://YEATS-ZZ.github.io/atom.xml"/>
@@ -16,31 +16,7 @@
         <link href="https://YEATS-ZZ.github.io/post/lai-liao-lao-di/">
         </link>
         <updated>2020-04-07T10:34:42.000Z</updated>
-        <content type="html"><![CDATA[<p>有关于AI使用技巧及笔记<br>
-出血线<br>
-A4尺寸的东西（210mm*285mm）大一圈的出血一般留3mm的位置<br>
-CTRL + R 标尺<br>
-画板<br>
-长度</p>
-<p>PT为AI中能使用的最小单位<br>
-新建高级选项<br>
-颜色模式<br>
-CMYK 打印<br>
-手机电脑屏幕RGB<br>
-栅格效果<br>
-反应清晰程度，分辨率<br>
-预览效果<br>
-显示像素<br>
-打印 叠印<br>
-一般默认值<br>
-像素网格对齐（屏幕显示建议勾选）<br>
-点击模板可以看见自带模板</p>
-<p>画板的移动<br>
-1.左边点击画板，2上边窗口点开画板（打开图层），点击画板拖动<br>
-还原重做<br>
-CTRL + Z 还原上一步    CTRL +SHIFT +Z 重做上一步还原<br>
-删除画板修改画板尺寸<br>
-a/t + SHIFT 等比例放大缩小</p>
+        <content type="html"><![CDATA[<p>222222222</p>
 ]]></content>
     </entry>
     <entry>
